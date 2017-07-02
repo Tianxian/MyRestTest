@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite1" verbose="1"> 
+  <parameter name="param" value="param" />  
+  
+  <test name="test1">  
+    <parameter name="workBook" value="Config/TestCases.xlsx" />  
+    <classes>  
+	     
+	      <class name="cn.demo.test.methods.NewTest">
+	       <methods>
+	               <exclude name="db_test" />
+	               <exclude name="write_cardID_to_Excel" />
+	               <exclude name="appendURL_test" />
+	               <exclude name="jsonReader_test" />
+	               <include name="api_test" />
+	      </methods></class>                  
+    </classes>  
+  </test>  
+</suite>  

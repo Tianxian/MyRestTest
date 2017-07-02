@@ -1,0 +1,5 @@
+<<Request_Method>> <<URL_To_Append>> HTTP/1.1
+Host: <<Host>>
+Content-Type: <<Content_Type>>
+
+<<Body>>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [suite1]">
+  <parameter name="workBook" value="Config/TestCases.xlsx"/>
+  <parameter name="param" value="param"/>
+  <test name="test1(failed)" preserve-order="false">
+    <parameter name="workBook" value="Config/TestCases.xlsx"/>
+    <parameter name="param" value="param"/>
+    <classes>
+      <class name="cn.demo.test.methods.NewTest">
+        <methods>
+          <include name="setup"/>
+          <include name="api_test" invocation-numbers="0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20"/>
+          <include name="teardown"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

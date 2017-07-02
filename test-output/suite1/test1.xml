@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="nana-PC" name="cn.demo.test.methods.NewTest" tests="21" failures="21" timestamp="30 Jun 2017 13:28:22 GMT" time="2.369" errors="0">
+  <testcase name="api_test" time="0.757" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.046" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.089" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.04" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.063" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.021" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="Problem using HTTPRequestGenerator to generate response: null">
+      <![CDATA[java.lang.AssertionError: Problem using HTTPRequestGenerator to generate response: null
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:174)
+... Removed 26 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.07" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.014" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.031" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.025" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.055" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.01" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.017" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.019" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.01" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.016" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.021" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 28 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.016" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 28 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.012" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 28 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.01" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 28 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="api_test" time="0.009" classname="cn.demo.test.methods.NewTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at cn.demo.test.methods.NewTest.api_test(NewTest.java:178)
+... Removed 28 stack frames]]>
+    </failure>
+  </testcase>
+</testsuite>

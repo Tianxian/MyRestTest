@@ -1,0 +1,10 @@
+{
+"cardNumber":11111114,
+"cardIssuerID":2,
+"cardHolderFirstName":"prodManager11",
+"cardHolderLastName":"kashakasha11",
+"cardActiveDate":"2014-07-04T12:08:56.235+0800",
+"cardExpireDate":"2017-07-04T12:08:56.235+0800",
+"cardLimitAmt":8888,
+"createBy":"System-update"
+}
